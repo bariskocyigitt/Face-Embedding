@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+numpy
+insightface
+onnxruntime
+albumentations
+scikit-learn
+matplotlib
+seaborn
+cryptography
+flask   # opsiyonel dashboard
+tqdm
