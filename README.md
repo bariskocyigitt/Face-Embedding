@@ -1,4 +1,3 @@
-﻿# Face-Embedding
 
 # Face Embedding Lab 🧠
 
@@ -55,3 +54,4 @@ python align.py           # Yüz hizala
 python augment.py         # Veri çoğalt
 python extract_embeddings.py   # Embedding çıkar
 python visualize.py       # PCA / t-SNE grafiklerini oluştur
+
